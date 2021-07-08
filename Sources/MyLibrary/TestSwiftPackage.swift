@@ -1,6 +1,6 @@
 import XCTest
 
-class MyLibraryTests: XCTestCase {
+class TestSwiftPackage: XCTestCase {
     let test = "test"
     func testExample() {
         // This is an example of a functional test case.
